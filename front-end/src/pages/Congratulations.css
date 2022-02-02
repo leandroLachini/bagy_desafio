@@ -1,0 +1,7 @@
+.main-container {
+  display: flex;
+}
+
+.right-container {
+  margin: 20px 0px 0px 50px;
+}

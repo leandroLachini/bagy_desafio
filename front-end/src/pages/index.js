@@ -1,8 +1,10 @@
 import Home from './Home';
-import Graph from './Graph';
+import Construction from './Construction';
+import Congratulations from './Congratulations';
 
 export {
   Home,
-  Graph
+  Construction,
+  Congratulations
 }
   

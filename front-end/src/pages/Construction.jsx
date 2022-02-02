@@ -8,7 +8,7 @@ const Construction = () => {
       <div className="left-container">
         <NavBar />
       </div>
-      <div className="right-containera">
+      <div className="right-container">
         <h1>Página em Construção</h1>
       </div>
     </main>

@@ -12,7 +12,6 @@ const NavBar = () => {
   ];
   return(
     <main>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
       <div className="navbar">
         <h4>Dashboard Bagy</h4>
         <ul>
@@ -24,7 +23,7 @@ const NavBar = () => {
             )
           })}
           <li id='close'>
-            <i class="fa fa-fw fa-home"></i>
+            <i className="fa fa-fw fa-home"></i>
             <Link to='/sair'>Sair</Link>
           </li>
         </ul>

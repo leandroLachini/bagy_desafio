@@ -10,6 +10,7 @@ const Congratulations = () => {
       <div className="right-container">
         <h1>Você saiu da aplicação com Sucesso!</h1>
         <h2>Obrigado por ser Cliente Bagy</h2>
+        <a href="https://site.bagy.com.br/site-principal/">Visite o site da Bagy</a>
       </div>
     </main>
   )
